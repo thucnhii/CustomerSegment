@@ -5,3 +5,6 @@ In the ever-evolving landscape of business, understanding and effectively cateri
 This project is mainly aiming for two goals: </br>
 * The first goal is to calculate RFM scores for each customers based on their historical purchasing data. The purpose is to analyze customer value and explore the metrics to build the clustering algorithm.
 * The second goal is to segment customers into a number of cluster for the strategy development.
+## Dataset Description
+I used an [E-Commerce Dataset](https://www.kaggle.com/datasets/carrie1/ecommerce-data) from Kaggle that contains transaction information from around 4,000 customers. </br>
+`inline code`
