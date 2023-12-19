@@ -22,7 +22,7 @@ The dataframe consists of 8 variables:
 * Country: The country from where the purchase was made. </br>
 
 #### Secondly, calculating RFM scores and standardizing these scores to build the clustering model.
-![image](RFMStandardized.png)
+![image](RFMStandardized.png) </br>
 RFM is commonly used in marketing to evaluate a client’s value based on their:
 * Recency: How recently have they made a purchase?
 * Frequency: How often have they bought something?
