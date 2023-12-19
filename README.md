@@ -13,6 +13,6 @@ I used an [E-Commerce Dataset](https://www.kaggle.com/datasets/carrie1/ecommerce
 ## Customer Segmentation Methods
 In this project, I used **K-Means** clustering algorithm to perform customer segmentation. </br>
 When building a clustering model, we need to decide how many segments we want to group the data into. This is achieved by a heuristic called **the elbow method**. </br>
-![elbowMethod](elbow method.png)
+![elbowMethod](https://github.com/thucnhii/CustomerSegment/blob/0dfe604fcace37c45c033e0517e036965c28065c/elbow%20method.png)
 The “elbow” of this graph is the point of inflection on the curve, and in this case is at the 4-cluster mark. This means that we will segment customers into 4 different groups.
 ## Result and Interpretation
