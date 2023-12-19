@@ -10,7 +10,7 @@ I used an [E-Commerce Dataset](https://www.kaggle.com/datasets/carrie1/ecommerce
 ## Data Exploration and Preprocessing
 [Notebook for more details](CustomerSegment.ipynb) 
 #### Understanding the dataframe: 
-![image](dataHead.png)
+![image](img/dataHead.png)
 The dataframe consists of 8 variables:
 * InvoiceNo: The unique identifier of each customer invoice.
 * StockCode: The unique identifier of each item in stock.
