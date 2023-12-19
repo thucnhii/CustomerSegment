@@ -7,3 +7,5 @@ This project is mainly aiming for two goals: </br>
 * The second goal is to segment customers into a number of cluster for the strategy development.
 ## Dataset Description
 I used an [E-Commerce Dataset](https://www.kaggle.com/datasets/carrie1/ecommerce-data) from Kaggle that contains transaction information from around 4,000 customers. </br>
+## Data Exploration
+[Notebook](CustomerSegment.ipynb)
