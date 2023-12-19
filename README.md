@@ -9,4 +9,9 @@ This project is mainly aiming for two goals: </br>
 I used an [E-Commerce Dataset](https://www.kaggle.com/datasets/carrie1/ecommerce-data) from Kaggle that contains transaction information from around 4,000 customers. </br>
 ## Data Exploration
 [Notebook](CustomerSegment.ipynb)
-![image](<img width="593" alt="image" src="https://github.com/thucnhii/CustomerSegment/assets/126826524/6c7dffb0-c1e0-43d2-9e5f-46c848808663">)
+
+## Customer Segmentation Methods
+In this project, I used **K-Means** clustering algorithm to perform customer segmentation. </br>
+When building a clustering model, we need to decide how many segments we want to group the data into. This is achieved by a heuristic called **the elbow method**. </br>
+The “elbow” of this graph is the point of inflection on the curve, and in this case is at the 4-cluster mark. This means that we will segment customers into 4 different groups.
+## Result and Interpretation
