@@ -17,3 +17,4 @@ When building a clustering model, we need to decide how many segments we want to
 The “elbow” of this graph is the point of inflection on the curve, and in this case is at the 4-cluster mark. This means that we will segment customers into 4 different groups.
 ## Result and Interpretation
 ![image](3DVisualization.png)
+fdjfdfdf
