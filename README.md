@@ -9,3 +9,4 @@ This project is mainly aiming for two goals: </br>
 I used an [E-Commerce Dataset](https://www.kaggle.com/datasets/carrie1/ecommerce-data) from Kaggle that contains transaction information from around 4,000 customers. </br>
 ## Data Exploration
 [Notebook](CustomerSegment.ipynb)
+<img width="593" alt="image" src="https://github.com/thucnhii/CustomerSegment/assets/126826524/6c7dffb0-c1e0-43d2-9e5f-46c848808663">
