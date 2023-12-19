@@ -9,6 +9,17 @@ This project is mainly aiming for two goals: </br>
 I used an [E-Commerce Dataset](https://www.kaggle.com/datasets/carrie1/ecommerce-data) from Kaggle that contains transaction information from around 4,000 customers. </br>
 ## Data Exploration
 [Notebook](CustomerSegment.ipynb)
+Firstly, let's look at the head of the dataframe to understand data
+![image](dataHead.png)
+The dataframe consists of 8 variables:
+* InvoiceNo: The unique identifier of each customer invoice.
+* StockCode: The unique identifier of each item in stock.
+* Description: The item purchased by the customer.
+* Quantity: The number of each item purchased by a customer in a single invoice.
+* InvoiceDate: The purchase date.
+* UnitPrice: Price of one unit of each item.
+* CustomerID: Unique identifier assigned to each user.
+* Country: The country from where the purchase was made.
 
 ## Customer Segmentation Methods
 In this project, I used **K-Means** clustering algorithm to perform customer segmentation. </br>
