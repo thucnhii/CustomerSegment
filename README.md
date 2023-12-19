@@ -22,7 +22,7 @@ The dataframe consists of 8 variables:
 * Country: The country from where the purchase was made. </br>
 
 #### Secondly, calculating RFM scores and standardizing these scores to build the clustering model.
-![image](RFMStandardized.png) </br>
+![image](img/RFMStandardized.png) </br>
 RFM is commonly used in marketing to evaluate a client’s value based on their:
 * Recency: How recently have they made a purchase?
 * Frequency: How often have they bought something?
@@ -31,10 +31,10 @@ RFM is commonly used in marketing to evaluate a client’s value based on their:
 ## Customer Segmentation Methods
 In this project, I used **K-Means** clustering algorithm to perform customer segmentation. </br>
 When building a clustering model, we need to decide how many segments we want to group the data into. This is achieved by a heuristic called **the elbow method**. </br>
-![image](elbow.png)
+![image](img/elbow.png)
 The “elbow” of this graph is the point of inflection on the curve, and in this case is at the 4-cluster mark. This means that we will segment customers into 4 different groups.
 ## Result and Interpretation
-![image](3DVisualization.png)
+![image](img/3DVisualization.png)
 * Cluster 2: **High-Value Segment** </br>
 This segment has moderate recency (160.63), moderate frequency (31.60) and high monetary value (10,587.06). These customers have made recent and frequent purchases, and they contribute significantly to revenue.
 * Cluster 0: **Potential Loyalists** </br>
