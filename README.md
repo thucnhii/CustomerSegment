@@ -23,6 +23,10 @@ The dataframe consists of 8 variables:
 
 #### Secondly, calculating RFM scores and standardizing these scores to build the clustering model.
 ![image](RFMStandardized.png)
+RFM is commonly used in marketing to evaluate a client’s value based on their:
+* Recency: How recently have they made a purchase?
+* Frequency: How often have they bought something?
+* Monetary Value: How much money do they spend on average when making purchases?
 
 ## Customer Segmentation Methods
 In this project, I used **K-Means** clustering algorithm to perform customer segmentation. </br>
