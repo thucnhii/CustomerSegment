@@ -37,7 +37,7 @@ When building a clustering model, we need to decide how many segments we want to
 ![image](img/elbow.png)
 The “elbow” of this graph is the point of inflection on the curve, and in this case is at the 4-cluster mark. This means that we will segment customers into 4 different groups.
 ## Result and Interpretation
-![image](img/3DVisualization.png)
+![image](img/3DVisual.png)
 * Cluster 3: **High-Value Segment** </br>
 This segment has moderate recency (160.63), moderate frequency (31.60) and high monetary value (10,587.06). These customers have made recent and frequent purchases, and they contribute significantly to revenue.
 * Cluster 2: **Potential Loyalists** </br>
