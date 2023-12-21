@@ -46,3 +46,8 @@ This segment has moderate recency (163.08), high frequency (69.19) and a relativ
 This cluster has high recency (281.52), low frequency (18.84) and a moderate monetary value (728.42). These customers have not made recent purchases and have a lower frequency, indicating a potential decline in engagement.
 * Cluster 3: **Low-Value Segment** </br>
 This segment has low recency (64.79), low frequency (15.06), and a moderate monetary value (568.92). These customers are not active in terms requency, and they contribute less to overall revenue.
+
+## Implementation
+Generate the output file containing CustomerID with their assigned segments to facilitate the development of future marketing strategies. </br>
+![image](img/output.png) </p>
+View the [Output File](output_segment.csv)
