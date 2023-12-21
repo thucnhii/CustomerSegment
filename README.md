@@ -50,4 +50,4 @@ This segment has low recency (64.79), low frequency (15.06), and a moderate mone
 ## Implementation
 Generate the output file containing CustomerID with their assigned segments to facilitate the development of future marketing strategies. </br>
 ![image](img/result.png) </p>
-View the [Output File](output_segment.csv)
+View the [Output File](output_file.csv)
