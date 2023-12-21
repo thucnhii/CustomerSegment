@@ -11,7 +11,7 @@ This project is mainly aiming for two goals: </br>
 ## Dataset Description
 I used an [E-Commerce Dataset](https://www.kaggle.com/datasets/carrie1/ecommerce-data) from Kaggle that contains transaction information from around 4,000 customers. </br>
 ## Data Exploration and Preprocessing
-[Notebook for more details](CustomerSegment.ipynb) 
+[Notebook for more details](CustomerSegmentNotebook.ipynb) 
 #### Understanding the dataframe: 
 ![image](img/dataHead.png)
 The dataframe consists of 8 variables:
